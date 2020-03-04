@@ -1,10 +1,45 @@
-.container
-{
-	max-width: 768px;
+body {
+	background-color: #ffdde2ff;
 }
 
-#run-btn
-{
-	margin-top: 10px;
-	width: 100px;
+h1 {
+	color: rgb(2, 94, 80);
+	font-size: 45px;
+	text-align: center;
+	font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+a {
+	color: #008c76ff;
+	text-align: center;
+	font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+	text-decoration: none;
+}
+
+hr {
+	color: #008c76ff;
+}
+.main {
+	background-color: #9ed9ccff;
+	margin: 80px 200px;
+	padding: 20px 75px;
+	border: solid #008c76ff;
+	border-radius: 15px;
+}
+
+p {
+	font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+	color: rgb(0, 75, 64);
+	text-align: center;
+}
+
+button {
+	background-color: #faad94ff;
+	padding: 5px 10px;
+	color: rgb(7, 90, 78);
+	font-family: cursive;
+}
+
+.align {
+	text-align: justify;
 }
